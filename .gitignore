@@ -1,6 +1,8 @@
 *.o
 writer
 Test_*_Runner.c
+test/unity_runner.c
+.automated-test
 build/
 crosstool-ng
 aesd-build
